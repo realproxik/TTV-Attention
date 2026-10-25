@@ -1,2 +1,6 @@
-# TTV-Attention
-TTV Attention Group Is Used For Training LLM's  and NN and it's Multi head too
+# TTV Attention Researcher Name
+- Jatin
+
+# TTV Attention is Used For LLM's and Platform's will Use it
+# TTV Group Uses Gamma to Train Itself while Training Of a Model
+# Research Paper Is in a Pdf file name j.pdf
